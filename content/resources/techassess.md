@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: This resource contains information about the technology assessment assignment
+  and the readings for this particular topic.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/9c640b51b555351a035bd89b95b7ad30_techassess.pdf
+file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+resourcetype: Document
+title: techassess.pdf
+uid: 9c640b51-b555-351a-035b-d89b95b7ad30
+---

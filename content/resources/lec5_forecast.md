@@ -1,0 +1,16 @@
+---
+content_type: resource
+description: This resource contains information about the technological forecasting
+  methods, people interested in technological forecasting, functional classification
+  matrix, technological and other determinisms and learning objectives.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/e766647c966611d983b08f15808709ad_lec5_forecast.pdf
+file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+resourcetype: Document
+title: lec5_forecast.pdf
+uid: e766647c-9666-11d9-83b0-8f15808709ad
+---
