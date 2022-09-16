@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section contains the various papers and team-based case
+  presentations based on the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
